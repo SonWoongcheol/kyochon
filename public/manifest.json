@@ -1,0 +1,53 @@
+{
+  "name": "교촌치킨 PWA 페이지",
+  "short_name": "교촌치킨",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "교촌치킨 모바일 앱 PWA 버전",
+  "dir": "auto",
+  "lang": "ko",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "https://kyochonpwa.netlify.app/",
+  "start_url": "https://kyochonpwa.netlify.app/",
+  "gcm_sender_id": "",
+  "gcm_user_visible_only": true,
+  "categories": [],
+  "screenshots": [
+    {
+      "src": "img/screenshot1.PNG",
+      "sizes": "380x670",
+      "type": "image/png"
+    },
+    {
+      "src": "img/screenshot2.PNG",
+      "sizes": "380x670",
+      "type": "image/png"
+    },
+    {
+      "src": "img/screenshot3.PNG",
+      "sizes": "380x670",
+      "type": "image/png"
+    },
+    {
+      "src": "img/screenshot4.PNG",
+      "sizes": "380x670",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "img/favicon(512x512).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/favicon(192x192).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": []
+}

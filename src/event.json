@@ -1,0 +1,172 @@
+{
+  "event": [
+    {
+      "theme": "main",
+      "src": "img/event/메인_1.jpg",
+      "name": "블랙시크릿콤보",
+      "date": "2022-09-22 ~ 2022-11-30"
+    },
+    {
+      "theme": "main",
+      "src": "img/event/메인_2.jpg",
+      "name": "술이 술술 들어가는 교촌 일품안주",
+      "date": "2022-11-17 ~ 2022-12-31"
+    },
+    {
+      "theme": "main",
+      "src": "img/event/메인_3.jpg",
+      "name": "교촌x프레딧 1만원 추가 혜택받기",
+      "date": "2022-11-16 ~ 2022-11-30"
+    },
+    {
+      "theme": "main",
+      "src": "img/event/메인_4.jpeg",
+      "name": "응원쿠폰팩",
+      "date": "2022-11-10 ~ 2022-12-30"
+    },
+    {
+      "theme": "main",
+      "src": "img/event/메인_5.jpeg",
+      "name": "블랙시크릿 인증이벤트",
+      "date": "2022-11-10 ~ 2022-12-31"
+    },
+    {
+      "theme": "main",
+      "src": "img/event/메인_6.jpg",
+      "name": "친구초대이벤트2",
+      "date": "2022-11-07 ~ 2022-12-31"
+    },
+    {
+      "theme": "main",
+      "src": "img/event/메인_7.jpg",
+      "name": "10월 수퍼데이",
+      "date": "2022-10-04 ~ 2022-11-30"
+    },
+    {
+      "theme": "main",
+      "src": "img/event/메인_8.png",
+      "name": "1991라거 할인",
+      "date": "2022-10-01 ~ 2022-11-30"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_1.jpg",
+      "name": "술이 술술 들어가는 교촌 일품안주",
+      "date": "2022-11-17 ~ 2022-12-31"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_2.jpg",
+      "name": "교촌x프레딧 1만원 추가 혜택받기",
+      "date": "2022-11-16 ~ 2022-11-30"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_3.jpg",
+      "name": "응원쿠폰팩",
+      "date": "2022-11-10 ~ 2022-12-30"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_4.jpg",
+      "name": "블랙시크릿 인증이벤트",
+      "date": "2022-11-10 ~ 2022-12-31"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_5.jpg",
+      "name": "친구초대이벤트2",
+      "date": "2022-11-07 ~ 2022-12-31"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_6.jpg",
+      "name": "10월 수퍼데이",
+      "date": "2022-10-04 ~ 2022-11-30"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_7.png",
+      "name": "1991라거 할인",
+      "date": "2022-10-01 ~ 2022-11-30"
+    },
+    {
+      "theme": "now",
+      "src": "img/event/진행_8.jpg",
+      "name": "블랙시크릿콤보",
+      "date": "2022-09-22 ~ 2022-11-30"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_1.jpg",
+      "name": "친구초대이벤트",
+      "date": "2022-10-05 ~ 2022-11-06"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_2.jpg",
+      "name": "교촌 멤버십 리뉴얼",
+      "date": "2022-10-05 ~ 2022-11-06"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_3.jpg",
+      "name": "교촌 시크릿쿠폰",
+      "date": "2022-09-15 ~ 2022-10-30"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_4.png",
+      "name": "교촌 스크래치 쿠폰 이벤트",
+      "date": "2022-09-21 ~ 2022-10-31"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_5.png",
+      "name": "가히 혁명적인 맛! 블랙시크릿콤보 출시",
+      "date": "2022-09-22 ~ 2022-10-16"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_6.jpg",
+      "name": "전체 금액의 10% 무제한 할인 이벤트",
+      "date": "2022-08-04 ~ 2022-09-30"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_7.jpg",
+      "name": "카카오채널 추가 시 사이드 최대 50%",
+      "date": "2022-08-18 ~ 2022-09-30"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_8.png",
+      "name": "교촌치킨 선물하기",
+      "date": "2022-08-22 ~ 2022-09-12"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_9.jpg",
+      "name": "교촌 모니터링 요원 모집",
+      "date": "2022-08-24 ~ 2022-08-31"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_10.jpg",
+      "name": "교촌치킨 피크닉백 앵콜이벤트",
+      "date": "2022-08-25 ~ 2022-08-28"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_11.jpg",
+      "name": "비상선언",
+      "date": "2022-07-21 ~ 2022-08-15"
+    },
+    {
+      "theme": "end",
+      "src": "img/event/종료_12.jpg",
+      "name": "전국 맛 표현대회",
+      "date": "2022-07-25 ~ 2022-08-14"
+    }
+  ]
+}

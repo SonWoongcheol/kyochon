@@ -1,0 +1,46 @@
+{
+  "seoul": [
+    {
+      "location": "gangnam",
+      "name": "강남역점",
+      "callNumber": "02-596-1991",
+      "address": "서울 강남구 강남대로 98길 11(메트로빌딩) 1층 교촌치킨 강남역점",
+      "distance": "0.2km"
+    },
+    {
+      "location": "gangnam",
+      "name": "역삼1호",
+      "callNumber": "02-566-9942",
+      "address": "서울 강남구 강남대로 66길 16 1층",
+      "distance": "1.0km"
+    },
+    {
+      "location": "gangnam",
+      "name": "논현1호(서울)",
+      "callNumber": "02-540-2182",
+      "address": "서울 강남구 학동로2길 50(논현동)",
+      "distance": "1.0km"
+    },
+    {
+      "location": "gangnam",
+      "name": "서초1호",
+      "callNumber": "02-581-9949",
+      "address": "서울 서초구 강남대로 43길 22-1 1층",
+      "distance": "1.4km"
+    },
+    {
+      "location": "gangnam",
+      "name": "대치1호",
+      "callNumber": "02-556-3599",
+      "address": "서울 강남구 선릉로 312",
+      "distance": "2.1km"
+    },
+    {
+      "location": "gangnam",
+      "name": "도곡",
+      "callNumber": "02-6494-0103",
+      "address": "서울 강남구 논현로38길 30 1층",
+      "distance": "2.1km"
+    }
+  ]
+}
